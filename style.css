@@ -1,0 +1,63 @@
+body{
+    background-color: #f8f8f8;
+    font-family: 'Noto Sans KR', sans-serif;
+    margin: 0;
+}
+.container{
+    margin: 0 auto;
+    width: 640px;
+}
+.header{
+    background-color: #11172b;
+    color: #ffffff;
+    font-family: 'Titillium web';
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 36px;
+    padding: 12px;
+}
+#logo{
+    height: 24px;
+    margin-right: 13px;
+}
+.logo-accent{
+    font-weight: 600;
+}
+hr{
+    border: none;
+    border-bottom: 1px dashed;
+    margin: 24px 0;
+}
+.trip{
+    background: #ebeff8;
+    border-radius: 8px;
+    margin: 40px 0 24px;
+    padding: 24px 32px;
+}
+.trip-title{
+    color: #b3bdd5;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 23px;
+}
+.trip-image{
+    height: 12px;
+    margin-right: 8px;
+}
+.trip-standing{
+    color: #000000;
+  font-family: 'Titillium Web';
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 32px;
+  margin: 8px 0;
+}
+.date{
+    background: #ffffff;
+  border-radius: 4px;
+  color: #000000;
+  display: inline-block;
+  margin: 16px 0;
+  padding: 8px 24px;
+}
